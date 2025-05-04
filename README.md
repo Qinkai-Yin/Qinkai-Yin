@@ -2,8 +2,8 @@
 
 **🎓 MS in Applied Data Science @ University of Chicago**  
 **🎓 BS in Finance (Financial Engineering) @ University of Macau**  
-**📚 Business & Data Science enthusiast**  
-**💡 Passionate about turning data into actionable business insight**
+📚 Business & Data Science enthusiast  
+💡 Passionate about turning data into actionable business insight
 
 ---
 
