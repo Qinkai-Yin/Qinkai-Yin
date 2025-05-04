@@ -1,9 +1,10 @@
-# Hi, I'm **Qinkai Yin(Kevin)**
+# Hi, I'm **Qinkai Yin**
 
 **MS in Applied Data Science @ University of Chicago**  
 **BS in Finance (Financial Engineering) @ University of Macau**  
 Business Analyst | Data Science | Machine Learning Engineer Enthusiast  
 Passionate about turning data into actionable business insight
+Tech Skills: MySQL | Python | Power BI | Tableau | Looker | Excel
 
 ---
 # About Me
@@ -21,16 +22,18 @@ Currently, I'm exploring **machine learning**, **capital markets analytics**, an
 - 📚 Curious about **AI in business**, especially in forecasting, strategy, and decision-making
 
 ---
+## 📊 Project Experiences
 
-#### 🔧 Tech Stack
-| SQL | Python | Tableau | Power BI | Looker | GCP
+- **Loan Delinquency Risk Modeling** – Predicted U.S. loan delinquency severity (Low / Medium / High) using macroeconomic and financial features  
+  - 📌 Collected and cleaned 13 key indicators from **FRED**, including GDP, CPI, unemployment, stock indexes, and interest rates  
+  - 🧮 Built a **Multinomial Logistic Regression** model to classify delinquency risk levels based on quarterly data (2000–2023)  
+  - 🔍 Performed **ADF tests** to ensure stationarity and applied **first-order differencing** to non-stationary series  
+  - 🧠 Handled **multicollinearity** using **correlation filtering** and **Variance Inflation Factor (VIF)** thresholding  
+  - 🧪 Conducted **likelihood ratio tests** and used **AIC / McFadden’s R² / confusion matrix** for model evaluation  
+  - 📊 Found unemployment, CPI, and stock price growth as significant predictors of delinquency transitions  
+  - 📈 Visualized predicted category probabilities and residual plots to validate model behavior
 
-#### 📁 Notable Projects
-- 🛻 **Vehicle Path Modeling** – Used VPD data and lane models for mobility optimization  
-- 📉 **Crypto Time Series Analysis** – ARIMA modeling on Bitcoin data  
-- 🛒 **E-commerce Price Strategy** – Profit-max pricing optimization using real sales data
+
 
 ---
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/你的用户名)  
-📍 Currently in Chicago, IL
