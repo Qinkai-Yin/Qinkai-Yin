@@ -1,13 +1,14 @@
-### Hi there 👋 I'm Qinkai
+### Hi there 👋 I'm Qinkai Yin
 
 📊 Business & Data Science enthusiast  
-🎓 MS student @ University of Chicago  
-💡 Passionate about turning data into impact  
+🎓 MS student @ University of Chicago
+🎓 BS student @ University of Macau
+💡 Passionate about turning data into actionable business insight 
 
 ---
 
 #### 🔧 Tech Stack
-Python | Pandas | Scikit-learn | SQL | Tableau | Git
+| SQL | Python | Tableau | Power BI | Looker | GCP
 
 #### 📁 Notable Projects
 - 🛻 **Vehicle Path Modeling** – Used VPD data and lane models for mobility optimization  
