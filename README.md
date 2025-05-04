@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Qinkai Yin
-
+# Hi there 👋 I'm Qinkai Yin
+---
 📊 Business & Data Science enthusiast  
 🎓 MS student @ University of Chicago
 🎓 BS student @ University of Macau
