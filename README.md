@@ -5,7 +5,7 @@
 **Semester Exchange Olin Business School @ Washington University in St.Louis**   
 Business Analyst | Data Science | Machine Learning Engineer Enthusiast  
 Passionate about turning data into actionable business insight  
-Tech Skills: MySQL | Python | Power BI | Tableau | Looker | Excel
+Tech Skills: MySQL | Python | Power BI | Tableau | Looker | Excel  
 Courses： Statistical Model, Machine Learning, Data Engineering Platform, Python in Data Analysis, Marketing Strategy(Booth MBA)
 
 ---
