@@ -9,22 +9,13 @@ Tech Skills: MySQL | Python | Power BI | Tableau | Looker | Excel
 ---
 ## About Me
 
-I'm passionate about bridging business goals and data science techniques to deliver measurable value. With a background in both finance and applied data science, I enjoy turning complex data into clear strategies.
+I’m passionate about using data to uncover insights and drive smarter business decisions. My academic and project experience spans time series forecasting, pricing strategy optimization, and geospatial analytics. I work comfortably with Python, SQL, and R, and have hands-on experience with tools like pandas, scikit-learn, seaborn, Tableau, and Git. I’m also exploring machine learning models and cloud platforms such as GCP to build scalable solutions. I’m always eager to learn, collaborate, and tackle meaningful problems through data.  
 
-Currently, I'm exploring **machine learning**, **capital markets analytics**, and **time series forecasting** to support smarter business decisions.
-
-- 🎓 MS in **Applied Data Science** @ University of Chicago  
-- 🎓 BS in **Finance (Financial Engineering)** @ University of Macau  
-- 📈 Strong interest in **capital markets**, **financial modeling**, and **mobility analytics**  
-- 🧪 Built models using **Python**, **Pandas**, **Scikit-learn**, and **GeoPandas** for real-world spatial data  
-- 🚗 Conducted research on **vehicle perception data (VPD)** and **lane model optimization**  
-- 📊 Skilled in **data visualization**, **EDA**, and turning insights into storytelling  
-- 📚 Curious about **AI in business**, especially in forecasting, strategy, and decision-making
+Please reach me out at qinkai@uchicago.edu or via LinkedIn: https://www.linkedin.com/in/qinkai-yin/. I'm always open to connecting with fellow data enthusiasts and professionals. If you're interested in chatting about data science, collaboration opportunities, or just want to say hi, feel free to reach out to me!
 
 ---
 ## Project Experiences
-- **Loan Delinquency Risk Modeling**
+- **Loan Delinquency Risk Modeling**  
 Built a multinomial logistic regression model on macro-financial data (2000–2023) to classify U.S. loan delinquency severity. Applied ADF tests, first-order differencing, multicollinearity checks (VIF), and evaluated with AIC, McFadden’s R², and confusion matrix.
-
 ---
 
