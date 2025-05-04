@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there 👋 I'm Qinkai
 
-<!--
-**Qinkai-Yin/Qinkai-Yin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Business & Data Science enthusiast  
+🎓 MS student @ University of Chicago  
+💡 Passionate about turning data into impact  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔧 Tech Stack
+Python | Pandas | Scikit-learn | SQL | Tableau | Git
+
+#### 📁 Notable Projects
+- 🛻 **Vehicle Path Modeling** – Used VPD data and lane models for mobility optimization  
+- 📉 **Crypto Time Series Analysis** – ARIMA modeling on Bitcoin data  
+- 🛒 **E-commerce Price Strategy** – Profit-max pricing optimization using real sales data
+
+---
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/你的用户名)  
+📍 Currently in Chicago, IL
