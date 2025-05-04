@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Qinkai Yin
-##-🎓 MS in Applied Data Science @ University of Chicago
+-##🎓 MS in Applied Data Science @ University of Chicago
 ##-🎓 BS in Finance(Financial Engineering) @ University of Macau
 ##-📊 Business & Data Science enthusiast 
 ##-💡 Passionate about turning data into actionable business insight 
