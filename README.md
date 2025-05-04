@@ -1,8 +1,8 @@
-# Hi, I'm **Qinkai Yin**
+# Hi, I'm **Qinkai Yin(Kevin)**
 
 **MS in Applied Data Science @ University of Chicago**  
 **BS in Finance (Financial Engineering) @ University of Macau**  
-Business Analytic | Data Science Enthusiast  
+Business Analyst | Data Science | Machine Learning Engineer Enthusiast  
 Passionate about turning data into actionable business insight
 
 ---
