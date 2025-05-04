@@ -1,9 +1,8 @@
 # Hi there 👋 I'm Qinkai Yin
----
-📊 Business & Data Science enthusiast  
-🎓 MS student @ University of Chicago
-🎓 BS student @ University of Macau
-💡 Passionate about turning data into actionable business insight 
+##-🎓 MS in Applied Data Science @ University of Chicago
+##-🎓 BS in Finance(Financial Engineering) @ University of Macau
+##-📊 Business & Data Science enthusiast 
+##-💡 Passionate about turning data into actionable business insight 
 
 ---
 
