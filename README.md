@@ -2,7 +2,7 @@
 
 **MS in Applied Data Science @ University of Chicago**  
 **BS in Finance (Financial Engineering) @ University of Macau**  
-**Semester Exchange Olin Business School @ Washington University in St.Louis** 
+**Semester Exchange Olin Business School @ Washington University in St.Louis**   
 Business Analyst | Data Science | Machine Learning Engineer Enthusiast  
 Passionate about turning data into actionable business insight  
 Tech Skills: MySQL | Python | Power BI | Tableau | Looker | Excel
