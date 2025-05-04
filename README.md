@@ -4,6 +4,7 @@
 **🎓 BS in Finance (Financial Engineering) @ University of Macau**  
 📚 Business Analytic | Data Science Enthusiast  
 💡 Passionate about turning data into actionable business insight
+
 ---
 ## 🚀 About Me
 
