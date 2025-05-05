@@ -21,6 +21,7 @@ Please reach out at qinkai@uchicago.edu or via LinkedIn: https://www.linkedin.co
 Built and compared multiple models—including XGBoost, neural networks, and Gaussian GLM—to predict movie box office revenue using metadata. The final XGBoost model achieved strong predictive performance and provided valuable insights to help stakeholders mitigate financial risk in the film industry.
 - **Loan Delinquency Risk Modeling**  
 Built a multinomial logistic regression model on macro-financial data (2000–2023) to classify U.S. loan delinquency severity. Applied ADF tests, first-order differencing, multicollinearity checks (VIF), and evaluated with AIC, McFadden’s R², and confusion matrix.
-
+- **Medical Cost Prediction Using Regression Modeling**  
+Built a multivariate linear regression model on U.S. healthcare data to predict medical charges. Applied log transformation, residual diagnostics, and VIF, achieving R² ≈ 0.75 with strong interpretability.
 ---
 
